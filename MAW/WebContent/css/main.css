@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+
+table {
+	margin-top: 10px;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+form {
+	display: inline;
+}
+
+th, td {
+	padding: 5px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#new {
+	font-size: 1.5em;
+	text-align: left;
+}
+
+#response {
+	text-align: center;
+}
+
+.good {
+	color: #00FF00;
+}
+
+.bad {
+	color: #FF0000;
+}
